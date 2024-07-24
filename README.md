@@ -2,8 +2,7 @@
 
 ## Project Description
 
-Welcome to the US State Guessing Game! This is an interactive game where players can guess the names of US states based on a visual map. The game uses Python's `turtle` graphics library to provide a fun and engaging user interface.
-
+Welcome to the US State Guessing Game! This is an interactive game where players can guess the names of US states based on a visual map. The game uses Python's `turtle` graphics library for the GUI.
 
 ## Installation
 
